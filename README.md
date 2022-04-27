@@ -25,7 +25,7 @@ We include 14 datasets in total here in this repository. 10 datasets come from p
 | f  | Amazon Computer  | MIT  |
 | g  | Coauthor Physics  | MIT  |
 | h  | ohsumed  | CC BY-NC 4.0  |
-| j  | 4paradigm  | CC BY-NC 4.0  |
+| i  | 4paradigm  | CC BY-NC 4.0  |
 | k  | Amazon Photo  | MIT  |
 | l  | Coauthor CS  | MIT  |
 | m  | R8  | Copyright to Reuters Ltd  |
