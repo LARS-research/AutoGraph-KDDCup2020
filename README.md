@@ -35,7 +35,7 @@ We include 14 datasets in total here in this repository. 10 datasets come from p
 
 
 # References:
-- [Bridging the Gap of AutoGraph between Academia and Industry: Analysing AutoGraph Challenge at KDD Cup 2020](https://arxiv.org/abs/2204.02625)
+- [Bridging the Gap of AutoGraph between Academia and Industry: Analysing AutoGraph Challenge at KDD Cup 2020](https://www.frontiersin.org/articles/10.3389/frai.2022.905104/full)
 - https://github.com/aister2020/KDDCUP_2020_AutoGraph_1st_Place
 - https://github.com/Unkrible/AutoGraph2020
 - https://github.com/white-bird/kdd2020_GCN
